@@ -1,0 +1,4 @@
+{
+  "start": "👋 Вітаю! Я CyberCheck. Використай /check_email або /generate_password.",
+  "invalid_email": "Неправильний формат. Введіть: /check_email example@email.com"
+}
