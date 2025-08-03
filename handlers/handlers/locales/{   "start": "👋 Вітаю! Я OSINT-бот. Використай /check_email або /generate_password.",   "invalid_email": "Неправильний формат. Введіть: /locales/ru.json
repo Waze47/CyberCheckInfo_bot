@@ -1,0 +1,4 @@
+{
+  "start": "👋 Приветствую! Я OSINT-бот. Используй /check_email или /generate_password.",
+  "invalid_email": "Неверный формат". Напишите: /check_email example@email.com"
+}
