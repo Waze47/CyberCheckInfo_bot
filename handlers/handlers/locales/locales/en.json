@@ -1,0 +1,4 @@
+{
+  "start": "👋 Hello! Im CyberCheck. Use /check_email or /generate_password.",
+  "invalid_email": "Incorrect format. Enter: /check_email example@email.com"
+}
